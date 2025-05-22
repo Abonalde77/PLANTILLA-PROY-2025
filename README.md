@@ -46,7 +46,8 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🗂️ Estructura del repositorio
 
-/test
+[tests de codigo](https://github.com/Abonalde77/PLANTILLA-PROY-2025/tree/main/test
+)
 
 ---
 
